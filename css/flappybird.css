@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+}
+
+canvas {
+	border:3px solid black;
+	position: relative;
+	display: inline-block;
+	vertical-align: baseline;
+	margin: 0 auto;
+}
